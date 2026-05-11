@@ -1,4 +1,5 @@
-
+Architecture Diagram
+![images alt](https://github.com/teajo99/aws-ec2-vpc-hospital-app/blob/b840ee236ca3b51fd7482c8c2c8adee32183f869/Diagram%20Architecture.png)
 # AWS EC2 + VPC Hands-On Project
 
 ## Overview
