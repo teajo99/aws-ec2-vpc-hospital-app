@@ -1,5 +1,5 @@
 Architecture Diagram
-![images alt](https://github.com/teajo99/aws-ec2-vpc-hospital-app/blob/b840ee236ca3b51fd7482c8c2c8adee32183f869/Diagram%20Architecture.png)
+![images alt](https://github.com/teajo99/aws-ec2-vpc-hospital-app/blob/fe7bdf1f5f5c552f27fb11006f34fcec1e9c7f36/Architecture%20diagram%20EU%20West%203A.png)
 # AWS EC2 + VPC Hands-On Project
 
 ## Overview
